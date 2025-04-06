@@ -1,5 +1,5 @@
 # Premake Dependency Fetcher
-A simple LUA script to that you can incorporate into your Premake project for dependency fetching.
+A simple LUA script that you can incorporate into your Premake build system for dependency fetching.
 
 # Requirements
 You must have Git installed on your machine in order to use this script:
